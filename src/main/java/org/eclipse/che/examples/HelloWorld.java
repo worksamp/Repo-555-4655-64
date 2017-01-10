@@ -3,7 +3,7 @@ package org.eclipse.che.examples;
 public class HelloWorld {
     public static void main(String[] argvs) {
         String a = "Che";
-        System.out.println("Test");
+        System.out.println("New comment added during demo");
         System.out.println("Hello World " + a + "!");
     }
 }
